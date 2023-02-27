@@ -4,3 +4,5 @@
 
 
 //TJUUU
+
+// KOM IGEN NU
