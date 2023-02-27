@@ -1,7 +1,9 @@
+
+
 function add(num1, num2, num3) {
     return num1 + num2 + num3;
 }
 
 // TAR bort subtract()
 
-// Fortsätt på punkt 13.
+// Kommentar i slutet via VSC
